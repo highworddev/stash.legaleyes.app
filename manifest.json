@@ -1,0 +1,27 @@
+{
+	"name": "LegalEyes Stash | Cannabis Calculator",
+	"short_name": "Legal Stash",
+	"description": "Quickly calculate your legal Cannabis stash. Works offline!",
+	"start_url": "./index.html?utm=homescreen",
+	"display": "standalone",
+	"scope": "/stash/",
+	"orientation": "portrait",
+	"background_color": "#333333",
+	"theme_color": "#2C7A2E",
+	"icons": [
+		{
+			"src": "./images/icons/android-chrome-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./images/icons/android-chrome-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"author": {
+		"name": "Jessy Forsyth | High World Design Inc.",
+		"website": "https://legaleyes.app"
+	}
+}
