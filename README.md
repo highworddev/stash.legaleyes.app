@@ -28,4 +28,4 @@ Pick and pock and expose the holes; than, if you wish, go ahead and start an iss
 ## Enough Marbels
 Any content that is monitized on the platform will addhear to a clear residual pay scale essablaished by the community.
 
-####### Peace, highworddev ~ 2018-10-17
+###### Peace, highworddev ~ 2018-10-17
